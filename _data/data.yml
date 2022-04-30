@@ -75,33 +75,17 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Billing Lead
+      time: 2009
+      company: Call Norwegian, Stockholm
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Billing lead for startup telco Call Norwegian. Set up and ran the billing solution. Was also interim product lead.
+    - role: Analyst
+      time: 2008 - 2009
+      company: PTS, Stockholm
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: BI Developer and Release Lead
+        Evaluation of proposed law on credit limits in EU on Swedish telco operators.
+      - role: BI Developer and Release Lead
       time: 2007 - 2008
       company: Telenor, Stockholm
       details: |
@@ -112,6 +96,17 @@ experiences:
       details: |
         To improve collaboration between onsite and offsite Andreas worked six months from a delivery center in
         Bangalore on projects for Ericsson.
+#  - role: Senior Software Engineer
+#      time: 2014 - 2015
+#      company: Google, London
+#      details: |
+#        Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#        Cum sociis natoque penatibus et magnis dis parturient montes,
+#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#        pellentesque eu, pretium quis, sem.
+#          - Bullet point
+#          - Bullet point
 
 #projects:
 #    title: Projects
@@ -145,27 +140,16 @@ experiences:
 #        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
 #        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+#    title: Skills &amp; Proficiency
+#
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
+#
+#      - name: Javascript & jQuery
+#        level: 98%
 
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
